@@ -11,7 +11,7 @@ public class TestHelloWorld {
 		TestHelloWorld.greeting();
 		System.out.println("Greeting Done");
 		System.out.println("Adding Hi to greeting");
-		System.out.println("Adding Hello to greeting");
+		System.out.println("Greeting Hi Done");
 	}
 
 }
