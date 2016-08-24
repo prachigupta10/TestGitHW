@@ -9,6 +9,7 @@ public class TestHelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Greeting ...");
 		TestHelloWorld.greeting();
+		System.out.println("Greeting Done");
 	}
 
 }
